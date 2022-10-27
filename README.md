@@ -129,7 +129,7 @@ Nikita Goryachev
 - **Analyst, SBER** | 2020-march — 2021-may 
 - **Data Scientist, Alghoritmics (E-PROMO GROUP)** | 2021-may — **Up to present** | Analytics and Machine Learning solutions | B2B & B2G 
   
-![table](https://github.com/boramorka/usercontent/blob/main/boramorka/Data%20experience.png?raw=true)
+![table](https://github.com/boramorka/usercontent/blob/main/boramorka/Data%20experience%20table.png?raw=true)
 
 ## :construction_worker: Most Awesome Recent Work Experience
 
@@ -142,7 +142,7 @@ Nikita Goryachev
 
 # My projects
 
-## :iphone: :computer: What you can touch. One API and 3 Apps with ML.
+## :iphone: :computer: What you can touch. One API and 3 ML Apps.
 
 ### :diamond_shape_with_a_dot_inside: **API:** [(GITHUB LINK) Social network API with authentication and votes](https://github.com/boramorka/API_dev) :hammer_and_wrench:
 - Built with **FastAPI, PostgresSQL and SQLAlchemy**

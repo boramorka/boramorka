@@ -155,3 +155,8 @@ Nikita Goryachev
 ### :books: [Beating DeepFood paper. Computer Vision Project.](https://github.com/boramorka/beating-deepfood-paper)
 ### :books: [Heart Attack Risk Prediction Research.](https://github.com/boramorka/Heart-Attack-Risk-Prediction-Research-AutoML)
 ### :books: [Beating Boston Housing Kaggle Competition.](https://github.com/boramorka/beating-boston-housing)
+
+<br>
+
+# Contacts
+:person_in_tuxedo: Feel free to write me on [Telegram](https://t.me/boramorka). 

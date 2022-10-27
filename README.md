@@ -125,7 +125,6 @@ Nikita Goryachev
 * Short period of time I worked as a project manager in addition to my main role (Data Scientist)
 * Software development for Neuro-Interface devices. Development of anomaly cleaning alghorithms and ML models for tremendous number of scenarios. Working with EEG data (electroencephalogram).
 * ML models development for biggest retail of Russia and Kazachstan
-* Building CV pipline and MLFlow integration
 
 
 # My projects

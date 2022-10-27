@@ -32,7 +32,7 @@ Nikita Goryachev
 
 <h3 align="center">
   ML Tech Stack
-
+  <br>
   <img src="https://github.com/boramorka/usercontent/blob/main/boramorka/dask.png?raw=true" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/jupyter.svg" height="30">
   <img src="https://github.com/boramorka/usercontent/blob/main/heart-risk/EvalML.png?raw=true" height="30">
@@ -54,7 +54,7 @@ Nikita Goryachev
 
 <h3 align="center">
   Learning on
-
+  <br>
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/learn/codeacademy.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/learn/codewars.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/learn/crs.svg" height="30">
@@ -72,7 +72,7 @@ Nikita Goryachev
 
 <h3 align="center">
   Environment
-
+  <br>
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/android.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/ios.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/macos.svg" height="30">

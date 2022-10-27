@@ -28,12 +28,6 @@ Nikita Goryachev
     <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/markdown.svg" height="30">
     <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/scala.svg" height="30">
     <img src="https://github.com/boramorka/usercontent/blob/main/boramorka/yandex%20cloud.png?raw=true" height="30">
-    <img src="" height="30">
-    <img src="" height="30">
-    <img src="" height="30">
-    <img src="" height="30">
-    <img src="" height="30">
-    <img src="" height="30">
 </h3>
 
 <h3 align="center">
@@ -56,8 +50,6 @@ Nikita Goryachev
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/pytorch.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/r.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/scipy.svg" height="30">
-  <img src="" height="30">
-  <img src="" height="30">
   <br>
 
 <h3 align="center">
@@ -76,9 +68,6 @@ Nikita Goryachev
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/learn/stackoverflow.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/learn/udacity.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/learn/udemy.svg" height="30">
-  <img src="" height="30">
-  <img src="" height="30">
-  <img src="" height="30">
   <br>
 
 <h3 align="center">
@@ -94,7 +83,6 @@ Nikita Goryachev
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/ubuntu.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/vscode.svg" height="30">
   <img src="https://raw.githubusercontent.com/boramorka/usercontent/a35e7cda4fdf6752e10506954a3a79a15bd7beab/boramorka/windows.svg" height="30">
-  <img src="" height="30">
   <br>
 
 </h3>

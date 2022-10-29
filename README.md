@@ -5,6 +5,13 @@ Nikita Goryachev
 - 👀 I’m interested in ML Engineering, Data Science and Big Data.
 
 
+<p align="center">
+  <a href="#education">Education</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#my-projects">My projects</a> •
+  <a href="#iphone-contacts">Contacts</a>
+</p>
+
 <h3 align="center">
   Tech stack
   <br>

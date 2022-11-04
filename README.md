@@ -4,6 +4,11 @@ Nikita Goryachev
 - :desktop_computer: In Data Science since 2016
 - 👀 I’m interested in ML Engineering, Data Science and Big Data.
 
+## Table of Contents:
+1. [My Projects](#my-projects)
+2. [Education](#education)
+3. [Experience](#experience)
+4. [Contacts](#iphone-contacts)
 
 <h3 align="center">
   Tech stack
@@ -89,6 +94,37 @@ Nikita Goryachev
 
 <br>
 
+# My projects
+
+## :iphone: :computer: What you can touch. One API and 3 ML Apps.
+
+### :diamond_shape_with_a_dot_inside: **API:** [(GITHUB LINK) Social network API with authentication and votes](https://github.com/boramorka/API_dev) :hammer_and_wrench:
+- Built with **FastAPI, PostgresSQL and SQLAlchemy**
+- Deployed on **Heroku** + **Docker** container for your own testing
+- You can check demo in project repo
+
+### :large_blue_diamond: **ML App:** [(GITHUB LINK) Telegram bot. Like Adobe Reader, but in your pocket.](https://github.com/boramorka/text-extraction-app) :iphone:
+- [Bot telegram link](https://t.me/boramorka_text_extraction_bot) - take a photo of some document and bot will send you a text that you can copy.
+- Deployed on **Heroku**
+- You can check demo in project repo
+
+### :large_blue_diamond: **ML App:** [(GITHUB LINK) Emotion detection Windows App](https://github.com/boramorka/Emotion_detection_v1) :computer:
+- Requires **NVIDIA CUDA**
+- You can check demo in project repo
+
+### :large_blue_diamond: **ML App:** [(GITHUB LINK) Traffic sign prediction app deployed on Stramlit Cloud](https://github.com/boramorka/Traffic-sign-prediction-app_1) :computer:
+- The model was trained on German road signs
+- The application may be in sleep mode. In this case, you will see an offer to wake it up. You'll have to wait a couple of minutes.
+- You can check demo in project repo
+
+## :page_with_curl: Research projects
+
+### :books: [Beating DeepFood paper. Computer Vision Project.](https://github.com/boramorka/beating-deepfood-paper)
+### :books: [Heart Attack Risk Prediction Research.](https://github.com/boramorka/Heart-Attack-Risk-Prediction-Research-AutoML)
+### :books: [Beating Boston Housing Kaggle Competition.](https://github.com/boramorka/beating-boston-housing)
+
+<br>
+
 # Education
 
 - 2021 | **Postgraduate Diploma, Data Scientist** :man_student:
@@ -135,36 +171,6 @@ Nikita Goryachev
   - Implementation of various ML methods, visualization.
   - Weekly reports for the corporate business department.
   - Worked at COVID headquarters. Sber launched a robot to collect information on the health status of employees. I did the analysis to identify the "green", "yellow" and "red" zones to define triggers of disease and to try to prevent early severe disease and potential death.
-
-
-# My projects
-
-## :iphone: :computer: What you can touch. One API and 3 ML Apps.
-
-### :diamond_shape_with_a_dot_inside: **API:** [(GITHUB LINK) Social network API with authentication and votes](https://github.com/boramorka/API_dev) :hammer_and_wrench:
-- Built with **FastAPI, PostgresSQL and SQLAlchemy**
-- Deployed on **Heroku** + **Docker** container for your own testing
-- You can check demo in project repo
-
-### :large_blue_diamond: **ML App:** [(GITHUB LINK) Telegram bot. Like Adobe Reader, but in your pocket.](https://github.com/boramorka/text-extraction-app) :iphone:
-- [Bot telegram link](https://t.me/boramorka_text_extraction_bot) - take a photo of some document and bot will send you a text that you can copy.
-- Deployed on **Heroku**
-- You can check demo in project repo
-
-### :large_blue_diamond: **ML App:** [(GITHUB LINK) Emotion detection Windows App](https://github.com/boramorka/Emotion_detection_v1) :computer:
-- Requires **NVIDIA CUDA**
-- You can check demo in project repo
-
-### :large_blue_diamond: **ML App:** [(GITHUB LINK) Traffic sign prediction app deployed on Stramlit Cloud](https://github.com/boramorka/Traffic-sign-prediction-app_1) :computer:
-- The model was trained on German road signs
-- The application may be in sleep mode. In this case, you will see an offer to wake it up. You'll have to wait a couple of minutes.
-- You can check demo in project repo
-
-## :page_with_curl: Research projects
-
-### :books: [Beating DeepFood paper. Computer Vision Project.](https://github.com/boramorka/beating-deepfood-paper)
-### :books: [Heart Attack Risk Prediction Research.](https://github.com/boramorka/Heart-Attack-Risk-Prediction-Research-AutoML)
-### :books: [Beating Boston Housing Kaggle Competition.](https://github.com/boramorka/beating-boston-housing)
 
 
 # :iphone: Contacts

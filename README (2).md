@@ -133,8 +133,9 @@ Nikita Goryachev
 
 * **As Data Analyst:**
   - Implementation of various ML methods, visualization.
+  - Streamline workflow by automating large volumes of work in Pandas.
   - Weekly reports for the corporate business department.
-  - Worked at COVID headquarters. Sber launched a robot to collect information on the health status of employees. I did the analysis to identify the "green", "yellow" and "red" zones to define triggers of disease and to try to prevent early severe disease and potential death.
+  - Work at COVID headquarters. Sber launched a robot to collect information on the health status of employees. I did the analysis to identify the "green", "yellow" and "red" zones to define triggers of disease and to try to prevent early severe disease and potential death.
 
 
 # My projects

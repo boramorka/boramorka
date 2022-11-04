@@ -153,8 +153,8 @@ Nikita Goryachev
 # Experience
 
 
-- **Analyst, SBER** | 2020-march — 2021-may 
-- **Data Scientist, Alghoritmics (E-PROMO GROUP)** | 2021-may — **Up to present** | Analytics and Machine Learning solutions | B2B & B2G 
+- **Data Analyst, SBER** | 2020-march — 2021-may 
+- **Lead Data Scientist, Alghoritmics (E-PROMO GROUP)** | 2021-may — **Up to present** | Analytics and Machine Learning solutions | B2B & B2G 
   
 ![table](https://github.com/boramorka/usercontent/blob/main/boramorka/Data%20experience%20table.png?raw=true)
 
